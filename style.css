@@ -10,11 +10,16 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    fonet-size: 40px;
+    font-weight: 700;
+}
 .orange-color{
     color: rgb(154, 115, 44);
 }
 section{
     display: flex;
+    margin-bottom: 180px;
 }
 .half-width{
     width: 50%;
@@ -33,6 +38,11 @@ section{
     border-bottom-right-radius: 5px;
     color: whitesmoke;    
     font-weight: 700;
+    margin-top: 170px;
 
 }
+.middle-part{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
